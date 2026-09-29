@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-reciprocal-rank-fusion-rrf-reranker-skill"
+version = "1.0.0"
+description = "Reciprocal Rank Fusion (RRF) multi-retriever rank aggregator with rank discount constant"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
