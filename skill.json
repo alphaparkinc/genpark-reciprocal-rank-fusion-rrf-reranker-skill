@@ -1,0 +1,20 @@
+{
+  "name": "genpark-reciprocal-rank-fusion-rrf-reranker-skill",
+  "version": "1.0.0",
+  "description": "Reciprocal Rank Fusion (RRF) multi-retriever rank aggregator with rank discount constant",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "rrf",
+    "reciprocal-rank-fusion",
+    "reranker",
+    "hybrid-search",
+    "agentic-rag",
+    "python-standard-library",
+    "agent-skills",
+    "multi-retrieval",
+    "rank-aggregation",
+    "context-engineering"
+  ]
+}
